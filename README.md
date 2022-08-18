@@ -10,7 +10,7 @@
  [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)
 
 
-# Denow
+# Desnowing
 * `ICCV 21` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
 
 
@@ -19,7 +19,7 @@
  
  [[Snow-Snow100K]](https://sites.google.com/view/yunfuliu/desnownet)  
  
-  [[Rain-Rain1400]](https://xueyangfu.github.io/projects/cvpr2017.html)  
+ [[Rain-Rain1400]](https://xueyangfu.github.io/projects/cvpr2017.html)  
 
 
 
