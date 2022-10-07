@@ -4,8 +4,6 @@
 
 * `CVPR 2022` TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions [[Paper]](https://arxiv.org/pdf/2111.14813.pdf) [[Code]](https://jeya-maria-jose.github.io/transweather-web/)   (Please refer to arxiv version.)
 
-* `CVPR 2022` TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) [[Code]](https://jeya-maria-jose.github.io/transweather-web/) 
-
 * `CVPR 2020` All in One Bad Weather Removal using Architectural Search
  [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)
 
