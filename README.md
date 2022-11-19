@@ -13,6 +13,7 @@
 * `ICCV 21` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
 
 # RainDrop
+* `CVPR 21` Removing Raindrops and Rain Streaks in One Go [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Quan_Removing_Raindrops_and_Rain_Streaks_in_One_Go_CVPR_2021_paper.pdf)
 * `CVPR 18` Attentive Generative Adversarial Network for Raindrop Removal from A Single Image [[Paper]](TBA) [[Code]](https://github.com/rui1996/DeRaindrop)  
 
 
