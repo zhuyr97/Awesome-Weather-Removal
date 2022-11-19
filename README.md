@@ -11,6 +11,7 @@
 
 # Desnowing
 * `ICCV 21` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
+* `ECCV 20` JSTASR: Joint Size and Transparency-Aware Snow Removal Algorithm Based on Modified Partial Convolution and Veiling Effect Removal [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660749.pdf) [[Code]](https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020)
 * `TIP 18` DesnowNet: Context-aware deep network for snow removal [[Paper]](https://ieeexplore.ieee.org/abstract/document/8291596)
 
 # RainDrop
