@@ -7,7 +7,9 @@
 * `CVPR 2020` All in One Bad Weather Removal using Architectural Search
  [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)
 
-* `Arxiv 2022`  Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models  [[Paper]]( https://arxiv.org/abs/2207.14626) [[Code]](https://github.com/IGITUGraz/WeatherDiffusion) 
+* `PAMI 2023`  Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models  [[Paper]]( https://arxiv.org/abs/2207.14626) [[Code]](https://github.com/IGITUGraz/WeatherDiffusion) 
+
+* `CVPR 2023`  Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions [[Paper]]( https://github.com/zhuyr97/WGWS-Net) [[Code]](https://github.com/zhuyr97/WGWS-Net) 
 
 # Desnowing
 * `ICCV 2021` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
