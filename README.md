@@ -9,7 +9,15 @@
 
 * `PAMI 2023`  Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models  [[Paper]]( https://arxiv.org/abs/2207.14626) [[Code]](https://github.com/IGITUGraz/WeatherDiffusion) 
 
-* `CVPR 2023`  Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions [[Paper]]( https://github.com/zhuyr97/WGWS-Net) [[Code]](https://github.com/zhuyr97/WGWS-Net) 
+* `CVPR 2023`  SmartAssign: Learning A Smart Knowledge Assignment Strategy for Deraining and Desnowing  [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_SmartAssign_Learning_a_Smart_Knowledge_Assignment_Strategy_for_Deraining_and_CVPR_2023_paper.pdf) 
+
+* `CVPR 2023`  Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf) [[Code]](https://github.com/zhuyr97/WGWS-Net) 
+
+* `Arxiv 2023`  Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go  [[Paper]](https://arxiv.org/abs/2305.09996)
+
+* `Arxiv 2023`  MoWE: Mixture of Weather Experts for Multiple Adverse Weather Removal  [[Paper]](https://arxiv.org/pdf/2303.13739.pdf)
+
+
 
 # Desnowing
 * `ICCV 2021` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
@@ -21,7 +29,11 @@
 * `CVPR 2018` Attentive Generative Adversarial Network for Raindrop Removal from A Single Image [[Paper]](TBA) [[Code]](https://github.com/rui1996/DeRaindrop)  
 
 
-## Related Datasets
+# Multi-tasks Learning for Image/Video Restoration 
+
+
+
+## Related Datasets for Weather Removal
  [[Snow-CSD]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
  
  [[Snow-Snow100K]](https://sites.google.com/view/yunfuliu/desnownet)  
