@@ -17,6 +17,7 @@
 
 * `Arxiv 2023`  MoWE: Mixture of Weather Experts for Multiple Adverse Weather Removal  [[Paper]](https://arxiv.org/pdf/2303.13739.pdf)
 
+* `Arxiv 2023`  GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions [[Paper]](https://arxiv.org/pdf/2305.17863.pdf)
 
 
 # Desnowing
