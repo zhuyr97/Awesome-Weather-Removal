@@ -34,6 +34,16 @@
 
 # Multi-tasks Learning for Image/Video Restoration 
 
+`CVPR 2021`  Pre-trained image processing transformer [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf) [[Code]](https://github.com/huawei-noah/Pretrained-IPT)
+
+`CVPR 2022`  All-in-one image restoration for unknown corruption [[Paper]](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf) [[Code]](https://github.com/XLearning-SCU/2022-CVPR-AirNet)
+
+`Arxiv 2022`  On Efficient Transformer-Based Image Pre-training for Low-level Vision  [[Paper]](https://arxiv.org/abs/2112.10175) [[Code]](https://github.com/fenglinglwb/EDT)
+
+`ICLR 2023` Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model [[Paper]](https://arxiv.org/abs/2212.00490) [[Code]](https://github.com/wyhuai/DDNM)
+
+`Arxiv 2023`  PromptIR: Prompting for All-in-One Blind Image Restoration [[Paper]](https://arxiv.org/abs/2306.13090) [[Code]](https://github.com/va1shn9v/PromptIR) 
+
 
 
 ## Related Datasets for Weather Removal
