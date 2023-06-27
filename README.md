@@ -44,6 +44,7 @@
 
 `Arxiv 2023`  PromptIR: Prompting for All-in-One Blind Image Restoration [[Paper]](https://arxiv.org/abs/2306.13090) [[Code]](https://github.com/va1shn9v/PromptIR) 
 
+`Arxiv 2023`  ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration [[Paper]](https://arxiv.org/abs/2306.13653) [[Code]](https://github.com/leonmakise/prores)
 
 
 ## Related Datasets for Weather Removal
