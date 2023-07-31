@@ -21,6 +21,8 @@
 
 * `Arxiv 2023`  Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal [[Paper]](https://arxiv.org/abs/2306.09008)
 
+* `ICCV 2023`  Multi-weather Image Restoration via Domain Translation  [[Code]](https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration)
+
 
 # Desnowing
 * `ICCV 2021` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
