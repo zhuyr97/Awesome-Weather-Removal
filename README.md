@@ -48,6 +48,8 @@
 
 `Arxiv 2023`  ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration [[Paper]](https://arxiv.org/abs/2306.13653) [[Code]](https://github.com/leonmakise/prores)
 
+`CVPR 2023`  Ingredient-oriented Multi-Degradation Learning for Image Restoration [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Ingredient-Oriented_Multi-Degradation_Learning_for_Image_Restoration_CVPR_2023_paper.pdf)
+
 
 ## Related Datasets for Weather Removal
  [[Snow-CSD]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
