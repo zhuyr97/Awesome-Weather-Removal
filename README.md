@@ -23,6 +23,7 @@
 
 * `ICCV 2023`  Multi-weather Image Restoration via Domain Translation  [[Code]](https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration)
 
+* `Arxiv 2023`  MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching   [[Paper]](https://arxiv.org/pdf/2308.14334.pdf)
 
 # Desnowing
 * `ICCV 2021` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
