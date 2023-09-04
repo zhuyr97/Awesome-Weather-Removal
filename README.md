@@ -13,6 +13,8 @@
 
 * `CVPR 2023`  Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf) [[Code]](https://github.com/zhuyr97/WGWS-Net) 
 
+* `CVPR 2023` All-in-one Image Restoration for Unknown Degradations Using Adaptive Discriminative Filters for Specific Degradations  [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_All-in-One_Image_Restoration_for_Unknown_Degradations_Using_Adaptive_Discriminative_Filters_CVPR_2023_paper.pdf) 
+
 * `Arxiv 2023`  Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go  [[Paper]](https://arxiv.org/abs/2305.09996)
 
 * `Arxiv 2023`  MoWE: Mixture of Weather Experts for Multiple Adverse Weather Removal  [[Paper]](https://arxiv.org/pdf/2303.13739.pdf)
