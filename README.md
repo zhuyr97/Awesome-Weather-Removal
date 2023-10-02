@@ -27,9 +27,10 @@
 
 * `Arxiv 2023`  MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching   [[Paper]](https://arxiv.org/pdf/2308.14334.pdf)
 
+* `ICCV 2023`  Adverse Weather Removal with Codebook Priors [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.pdf) 
+
 * `ICCV 2023`  Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Video_Adverse-Weather-Component_Suppression_Network_via_Weather_Messenger_and_Adversarial_Backpropagation_ICCV_2023_paper.pdf) [[Code]](https://github.com/scott-yjyang/ViWS-Net)
 
-* `ICCV 2023`  Adverse Weather Removal with Codebook Priors [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.pdf) 
 
 
 
