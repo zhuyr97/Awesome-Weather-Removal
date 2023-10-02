@@ -23,9 +23,16 @@
 
 * `Arxiv 2023`  Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal [[Paper]](https://arxiv.org/abs/2306.09008)
 
-* `ICCV 2023`  Multi-weather Image Restoration via Domain Translation  [[Code]](https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration)
+* `ICCV 2023`  Multi-weather Image Restoration via Domain Translation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Patil_Multi-weather_Image_Restoration_via_Domain_Translation_ICCV_2023_paper.pdf)       [[Code]](https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration)
 
 * `Arxiv 2023`  MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching   [[Paper]](https://arxiv.org/pdf/2308.14334.pdf)
+
+* `ICCV 2023`  Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Video_Adverse-Weather-Component_Suppression_Network_via_Weather_Messenger_and_Adversarial_Backpropagation_ICCV_2023_paper.pdf) [[Code]](https://github.com/scott-yjyang/ViWS-Net)
+
+* `ICCV 2023`  Adverse Weather Removal with Codebook Priors [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.pdf) 
+
+
+
 
 # Desnowing
 * `ICCV 2021` ALL Snow Removed: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf) [[Code]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
@@ -52,6 +59,9 @@
 `Arxiv 2023`  ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration [[Paper]](https://arxiv.org/abs/2306.13653) [[Code]](https://github.com/leonmakise/prores)
 
 `CVPR 2023`  Ingredient-oriented Multi-Degradation Learning for Image Restoration [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Ingredient-Oriented_Multi-Degradation_Learning_for_Image_Restoration_CVPR_2023_paper.pdf)
+
+`ICCV 2023`  Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration  [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Learning_Image-Adaptive_Codebooks_for_Class-Agnostic_Image_Restoration_ICCV_2023_paper.pdf)
+
 
 
 ## Related Datasets for Weather Removal
