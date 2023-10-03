@@ -55,7 +55,7 @@
 
 `ICLR 2023` Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model [[Paper]](https://arxiv.org/abs/2212.00490) [[Code]](https://github.com/wyhuai/DDNM)
 
-`Arxiv 2023`  PromptIR: Prompting for All-in-One Blind Image Restoration [[Paper]](https://arxiv.org/abs/2306.13090) [[Code]](https://github.com/va1shn9v/PromptIR) 
+`NeurIPS 23`  PromptIR: Prompting for All-in-One Blind Image Restoration [[Paper]](https://arxiv.org/abs/2306.13090) [[Code]](https://github.com/va1shn9v/PromptIR) 
 
 `Arxiv 2023`  ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration [[Paper]](https://arxiv.org/abs/2306.13653) [[Code]](https://github.com/leonmakise/prores)
 
