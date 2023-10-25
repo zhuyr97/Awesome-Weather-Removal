@@ -63,6 +63,7 @@
 
 `ICCV 2023`  Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration  [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Learning_Image-Adaptive_Codebooks_for_Class-Agnostic_Image_Restoration_ICCV_2023_paper.pdf)
 
+`Arxiv 2023` AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion [[Paper]](https://arxiv.org/abs/2310.10123)
 
 
 ## Related Datasets for Weather Removal
