@@ -65,6 +65,8 @@
 
 `Arxiv 2023` AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion [[Paper]](https://arxiv.org/abs/2310.10123)
 
+`Arxiv 2023` Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration [[Paper]](https://arxiv.org/pdf/2312.02918.pdf)
+
 
 ## Related Datasets for Weather Removal
  [[Snow-CSD]](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)  
