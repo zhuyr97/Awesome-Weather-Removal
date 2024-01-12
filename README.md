@@ -35,6 +35,8 @@
 
 * `Arxiv 2023` Language-driven All-in-one Adverse Weather Removal  [[Paper]](https://arxiv.org/pdf/2312.01381.pdf)
 * 
+*  `Arxiv 2023`   Decoupling Degradation and Content Processing for Adverse Weather Image Restoration  [[Paper]](https://arxiv.org/pdf/2312.05006.pdf)
+*  
 * `AAAI 2024` Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation  [[Paper]](https://arxiv.org/pdf/2312.16610.pdf)
 
 * `AAAI 2024` Learning Real-World Image De-Weathering with Imperfect Supervision  [[Paper]](https://arxiv.org/pdf/2310.14958.pdf)[[Code]](https://github.com/1180300419/imperfect-deweathering)
