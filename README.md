@@ -33,6 +33,13 @@
 
 * `Arxiv 2023` Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal [[Paper]](https://arxiv.org/pdf/2310.18293.pdf)
 
+* `Arxiv 2023` Language-driven All-in-one Adverse Weather Removal  [[Paper]](https://arxiv.org/pdf/2312.01381.pdf)
+* 
+* `AAAI 2024` Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation  [[Paper]](https://arxiv.org/pdf/2312.16610.pdf)
+
+* `AAAI 2024` Learning Real-World Image De-Weathering with Imperfect Supervision  [[Paper]](https://arxiv.org/pdf/2310.14958.pdf)[[Code]](https://github.com/1180300419/imperfect-deweathering)
+
+
 
 
 # Desnowing
